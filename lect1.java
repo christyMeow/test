@@ -10,6 +10,6 @@ public class lect1 {
     //conversion among double>float>long>int>short>byte
         int x= (int) 3.5; //narrowing
         System.out.println(x);
-        System.out.println("111");
+        
 }
 }
